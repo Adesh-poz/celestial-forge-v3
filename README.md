@@ -102,3 +102,8 @@ Was it all worth it, though? ...IDK. You tell me.
 - **State Management:** `Riverpod`
 - **Local Storage:** `Hive`
 - **Perk Data:** Persisted using Hive boxes to maintain CP, owned perks, and draw pool across app sessions.
+
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
